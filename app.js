@@ -8,5 +8,5 @@ xhr.onreadystatechange = function () {
       const textResponse = xhr.responseText
       console.log(textResponse);  
     }
-}
+}a
 xhr.send()
